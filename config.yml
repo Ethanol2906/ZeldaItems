@@ -1,0 +1,10 @@
+items:
+  RocsFeather: true
+  FlameRod: true
+  ZeldaShovel: true
+effects:
+  feather:
+    jump: 4
+armour:
+  BlueTunic: true
+  RedTunic: true
